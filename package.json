@@ -1,6 +1,6 @@
 {
   "name": "speech-enhancer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enhances speech.",
   "main": "index.js",
   "scripts": {
