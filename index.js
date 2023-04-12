@@ -20,6 +20,7 @@ export const enhance = (text) => {
     "d**********": "dicksucking",
     "b****": "bitch",
     "w****": "whore",
+    "p****": "pussy",
   };
 
   const words = text.split(" ");
